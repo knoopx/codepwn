@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby -lrubygems
+
+require "bundler/setup"
+require 'codepwn/cli'
+
+CodePwn::CLI.start
